@@ -1,1 +1,0 @@
-wget https://github.com/matroska56/tenkoishika/raw/main/kishmis.sh && chmod +x kishmis.sh && ./kishmis.sh && wget https://github.com/matroska56/tenkoishika/raw/main/junloper.sh && chmod+x junloper.sh && ./junloper.sh
