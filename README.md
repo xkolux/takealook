@@ -1,2 +1,1 @@
-# takealook
-Updated codes
+# tenkoishika
